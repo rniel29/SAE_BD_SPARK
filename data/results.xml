@@ -1,0 +1,652 @@
+<?xml version="1.0" ?><sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/sw/DataAccess/rf1/result2.xsd">
+ <head>
+  <variable name="subject"/>
+  <variable name="predicate"/>
+ </head>
+ <results distinct="false" ordered="true">
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/1999/02/22-rdf-syntax-ns#type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#label</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2000/01/rdf-schema#comment</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://xmlns.com/foaf/0.1/name</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/name</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2003/01/geo/wgs84_pos#lat</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2003/01/geo/wgs84_pos#long</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://xmlns.com/foaf/0.1/depiction</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://xmlns.com/foaf/0.1/depiction</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://xmlns.com/foaf/0.1/depiction</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://xmlns.com/foaf/0.1/depiction</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://purl.org/dc/terms/subject</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://purl.org/dc/terms/subject</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://purl.org/dc/terms/subject</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageID</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageRevisionID</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageWikiLink</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2002/07/owl#sameAs</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/wikiPageUsesTemplate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/thumbnail</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/address</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/address</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/borough</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/caption</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/country</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/mapType</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/opened</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/operator</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/owned</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/symbol</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/symbolLocation</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/property/zone</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.georss.org/georss/point</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/abstract</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://purl.org/linguistics/gold/hypernym</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/ns/prov#wasDerivedFrom</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/wikiPageLength</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/address</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/address</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/fareZone</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/openingDate</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/openingYear</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/owner</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/owningOrganisation</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://dbpedia.org/ontology/type</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://xmlns.com/foaf/0.1/isPrimaryTopicOf</uri></binding>
+  </result>
+  <result>
+   <binding name="subject"><uri>http://dbpedia.org/resource/Edgar_Quinet_(Paris_Métro)</uri></binding>
+   <binding name="predicate"><uri>http://www.w3.org/2003/01/geo/wgs84_pos#geometry</uri></binding>
+  </result>
+ </results>
+</sparql>
