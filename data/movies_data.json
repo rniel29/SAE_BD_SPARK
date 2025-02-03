@@ -1,0 +1,134 @@
+[
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "releaseYear": "2001",
+        "actor": "Emma Watson",
+        "actorBirth": "1990-04-15T00:00:00Z",
+        "role": "Hermione Granger",
+        "director": "Chris Columbus",
+        "directorBirth": "1958-09-10T00:00:00Z",
+        "genres": [
+            "film de fantasy",
+            "film d'aventure",
+            "film pour enfants",
+            "film fantastique",
+            "adaptation d'un roman au cinéma"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "releaseYear": "2001",
+        "actor": "Emma Watson",
+        "actorBirth": "1990-04-15T00:00:00Z",
+        "role": "Hermione Granger",
+        "director": "Chris Columbus",
+        "directorBirth": "1958-09-10T00:00:00Z",
+        "genres": [
+            "film de fantasy",
+            "film d'aventure",
+            "film pour enfants",
+            "film fantastique",
+            "adaptation d'un roman au cinéma"
+        ]
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "releaseYear": "2002",
+        "actor": "Emma Watson",
+        "actorBirth": "1990-04-15T00:00:00Z",
+        "role": "Hermione Granger",
+        "director": "Chris Columbus",
+        "directorBirth": "1958-09-10T00:00:00Z",
+        "genres": [
+            "film de fantasy",
+            "film d'aventure",
+            "film pour enfants",
+            "adaptation d'un roman au cinéma"
+        ]
+    },
+    {
+        "title": "Lions for Lambs",
+        "releaseYear": "2007",
+        "actor": "Andrew Garfield",
+        "actorBirth": "1983-08-20T00:00:00Z",
+        "role": "N/A",
+        "director": "Robert Redford",
+        "directorBirth": "1936-08-18T00:00:00Z",
+        "genres": [
+            "drame",
+            "film de guerre"
+        ]
+    },
+    {
+        "title": "Boy A",
+        "releaseYear": "2007",
+        "actor": "Andrew Garfield",
+        "actorBirth": "1983-08-20T00:00:00Z",
+        "role": "N/A",
+        "director": "John Crowley",
+        "directorBirth": "1969-08-19T00:00:00Z",
+        "genres": [
+            "drame",
+            "film à flash-back",
+            "adaptation d'un roman au cinéma"
+        ]
+    },
+    {
+        "title": "The Other Boleyn Girl",
+        "releaseYear": "2008",
+        "actor": "Andrew Garfield",
+        "actorBirth": "1983-08-20T00:00:00Z",
+        "role": "Francis Weston",
+        "director": "Justin Chadwick",
+        "directorBirth": "1968-12-01T00:00:00Z",
+        "genres": [
+            "drame",
+            "film biographique",
+            "film d'amour",
+            "adaptation d'un roman au cinéma"
+        ]
+    },
+    {
+        "title": "Superbad",
+        "releaseYear": "2007",
+        "actor": "Emma Stone",
+        "actorBirth": "1988-11-06T00:00:00Z",
+        "role": "N/A",
+        "director": "Greg Mottola",
+        "directorBirth": "1964-07-11T00:00:00Z",
+        "genres": [
+            "comédie",
+            "film pour adolescents",
+            "comédie érotique",
+            "Q18450913",
+            "film sur le passage à l'âge adulte"
+        ]
+    },
+    {
+        "title": "The Rocker",
+        "releaseYear": "2008",
+        "actor": "Emma Stone",
+        "actorBirth": "1988-11-06T00:00:00Z",
+        "role": "N/A",
+        "director": "Peter Cattaneo",
+        "directorBirth": "1964-07-01T00:00:00Z",
+        "genres": [
+            "comédie",
+            "film musical"
+        ]
+    },
+    {
+        "title": "The House Bunny",
+        "releaseYear": "2008",
+        "actor": "Emma Stone",
+        "actorBirth": "1988-11-06T00:00:00Z",
+        "role": "N/A",
+        "director": "Fred Wolf",
+        "directorBirth": "1964-11-07T00:00:00Z",
+        "genres": [
+            "comédie romantique",
+            "film pour adolescents",
+            "buddy film féminin"
+        ]
+    }
+]
